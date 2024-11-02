@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "836052758130",
+    "project_id": "report-app-c7dd2",
+    "storage_bucket": "report-app-c7dd2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:836052758130:android:c54cde30b3f9d3c8da1ceb",
+        "android_client_info": {
+          "package_name": "com.TStaN.report_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsUsYEGXV6K1Ky7C2uPvgSF1_bh8rppYM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
